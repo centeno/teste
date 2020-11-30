@@ -1,4 +1,4 @@
-id; longitude; latitude; log1; log2; predial; tipo_acid; data; dia_sem; hora; feridos; fatais; automoveis; transporte_publico; caminhao; moto; bicicleta; outros; vitimas; precipitacao; chuva 
+id;longitude;latitude;log1;log2;predial;tipo_acid;data;dia_sem;hora;feridos;fatais;automoveis;transporte_publico;caminhao;moto;bicicleta;outros;vitimas;precipitacao;chuva
 600997;-51.162504999999996;-30.065339;R NOVE DE JUNHO;nan;333;ABALROAMENTO;2015-01-02;SEXTA-FEIRA;16:20:00;1;0;1;0;0;1;0;0;1;2.2;Sem chuva
 601005;-51.229128;-30.027656;R URUGUAI;nan;97;ATROPELAMENTO;2015-01-03;SÁBADO;06:59:00;1;0;1;0;0;0;0;0;1;0.0;Sem chuva
 601007;-51.198287;-30.07538;R PEDRO BOTICARIO;nan;884;ABALROAMENTO;2015-01-03;SÁBADO;14:20:00;1;0;2;0;0;0;0;0;1;0.0;Sem chuva
